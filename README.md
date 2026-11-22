@@ -15,7 +15,7 @@ Gerenciador de tarefas full-stack desenvolvido na disciplina Introdução à Pro
 
 ## Vídeo de apresentação
 
-[Vídeo de apresentação no Google Drive](LINK_DO_VIDEO)
+[Vídeo de apresentação no Google Drive](https://drive.google.com/file/d/1eLDs0s-7GPhdWyPhbkheGEcElEixymv6/view?usp=drive_link)
 
 ## Dupla
 
